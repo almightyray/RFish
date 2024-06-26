@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">RFishX</string>
+    <string name="welcome_text">Welcome to the APP!  </string>
+    <string name="login_subtitle">
+        <font color="#3F21FA"><b>Register</b></font>
+        Jika Kamu belum memiliki akun.
+    </string>
+    <string name="SignUpSubtitle">
+        <font color="#3F21FA"><b>Login</b></font>
+        Jika kamu telah memiliki akun.
+    </string>
+    <string name="kontributor">Kontributor</string>
+    <string name="user">User</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+    <string name="username">Username</string>
+    <string name="email">Email</string>
+    <string name="lokasi_penangkapan">Mulai Menjelajah</string>
+    <string name="history_tangkapan">history tangkapan</string>
+    <string name="catatan_tangkapan">CATATAN TANGKAPAN</string>
+    <string name="lihathistory">lihat history tangkapan</string>
+    <string name="inputdata_tangkapan">Masukkan Data Tangkapan</string>
+    <string name="nama_kapal">Nama Kapal</string>
+    <string name="tanggal_penangkapan">Tanggal Penangkapan</string>
+    <string name="jenis_ikan">Jenis Ikan</string>
+    <string name="beratikan">Berat Hasil Tangkapan</string>
+    <string name="data_hasil_tangkapan">data hasil tangkapan\n</string>
+
+</resources>
